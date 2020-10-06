@@ -8,6 +8,10 @@ Professor: Mr.Alexander Iliev
 
 *************************************************************************** OpenCV,Python 3.2,Pandas,NumPy,PIL*******************************************************************************************************************
 
+![Screenshot 2020-10-06 at 7 53 36 AM](https://user-images.githubusercontent.com/15901647/95152408-a3456180-07aa-11eb-8bb4-d930860dc7d6.png)
+![Screenshot 2020-10-06 at 7 54 22 AM](https://user-images.githubusercontent.com/15901647/95152469-bfe19980-07aa-11eb-8bfc-690578760fbb.png)
+![Screenshot 2020-10-06 at 7 54 39 AM](https://user-images.githubusercontent.com/15901647/95152475-c53ee400-07aa-11eb-81b3-6f9dbefa76f1.png)
+![Screenshot 2020-10-06 at 7 54 32 AM](https://user-images.githubusercontent.com/15901647/95152481-c839d480-07aa-11eb-9f46-f13d52c10254.png)
 
 Introduction:
 
